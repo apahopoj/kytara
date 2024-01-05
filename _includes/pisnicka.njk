@@ -1,0 +1,10 @@
+---
+layout: moje-sablona.njk
+title: Písnička
+---
+
+<h3>{{title}}</h3>
+
+Publikováno {{page.date.toLocaleString( ' cs-CZ')}}<br>
+
+{{content | safe}}

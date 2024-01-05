@@ -1,0 +1,12 @@
+---
+layout: moje-sablona.njk
+title: Zpěvník
+---
+<section>
+ <h3>Seznam písniček</h3>
+ <ul>
+ {% for pisnicka in collection.zpevnik %}
+ <li>{{pisnicka.data.title}}</li>
+ {% endfor %}
+</ul>
+</section>
