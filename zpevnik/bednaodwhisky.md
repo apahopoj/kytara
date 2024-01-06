@@ -1,7 +1,7 @@
 ---
 layout: pisnicka.njk
 title: Bedna od whisky
-date:2024-02-05T15:30
+date: 2024-02-05T15:30
 tags: zpevnik
 ---
 
