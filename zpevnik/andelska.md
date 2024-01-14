@@ -6,8 +6,11 @@ tags: zpevnik
 ---
 
 A Hmi7 Amaj7 Hmi7 
+
 Bože, podej mi ještě ten kalich
+
  A Hmi7/F# C#mi7 C#7 
+
 To víno, co s nocí se měnívá na líh 
 F#mi F#maj7 
 Snad nad ránem na dně se dočtu,
